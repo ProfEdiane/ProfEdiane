@@ -12,6 +12,8 @@ Meu nome é Ediane Elita Carlos 👩
 [![](https://img.shields.io/badge/Scratch-4D97FF?style=for-the-badge&logo=Scratch&logoColor=white)](https://scratch.mit.edu/) [![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://editor.p5js.org/) ![](https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 
 
+😀 [Pensamento Computacional](http://www.educadores.diaadia.pr.gov.br/modules/conteudo/conteudo.php?conteudo=1625)
+
 
 
 
