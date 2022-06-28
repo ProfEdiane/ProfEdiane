@@ -8,7 +8,7 @@ Meu nome é Ediane Elita Carlos 👩
 - Estou trabalhando no [Programa EduTech](https://www.educacao.pr.gov.br/programacao) e [Robótica Paraná](https://aluno.escoladigital.pr.gov.br/robotica);
 - Estou aprendendo a programar Scratch, Mblock, JavaScript, Arduino, HTML;
 
-[Pensamento Computacional](http://www.educadores.diaadia.pr.gov.br/modules/conteudo/conteudo.php?conteudo=1625)
+[Pensamento Computacional](http://www.educadores.diaadia.pr.gov.br/modules/conteudo/conteudo.php?conteudo=1625) 
 
 
 
