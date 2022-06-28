@@ -14,6 +14,10 @@ Meu nome é Ediane Elita Carlos 👩
 
 😀 [Pensamento Computacional](http://www.educadores.diaadia.pr.gov.br/modules/conteudo/conteudo.php?conteudo=1625)
 
+![](https://img.shields.io/badge/Scratch-4D97FF?style=for-the-badge&logo=Scratch&logoColor=white)
+
+**Ediane**
+
 
 
 
